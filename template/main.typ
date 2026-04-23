@@ -1,4 +1,4 @@
-#import "@preview/homework:0.1.0": homework
+#import "@preview/homiework:0.1.0": homework
 
 #show: homework.with(
   course: "MATH 000",
