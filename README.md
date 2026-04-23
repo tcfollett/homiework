@@ -7,7 +7,7 @@ A clean homework template with a formatted title block, running page headers, an
 Initialize a new project from the template:
 
 ```bash
-typst init @preview/homework:0.1.0
+typst init @preview/homiework:0.1.0
 ```
 
 Or import it manually in an existing file:
