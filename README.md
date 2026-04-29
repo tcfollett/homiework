@@ -74,7 +74,7 @@ def mean(x):
 Standard Typst math works inline and in display mode:
 
 ```typst
-Given $integral_(-infinity)^infinity |Psi(x,t)|^2 = 1$
+Given $integral_(-infinity)^infinity |Psi(x,t)|^2 d x = 1$
 
 #align(center)[
   #rect[$ E = m c^2 $]
